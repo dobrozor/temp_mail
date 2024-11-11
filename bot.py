@@ -4,9 +4,8 @@ import json
 import time
 import html
 from telebot import types
-import cfg
 
-TOKEN = 'токен' #сюда токен
+TOKEN = '7781476624:AAEWnVMNlxye2j9leILfmEcKOo3oQI2vWfM' #сюда токен
 bot = telebot.TeleBot(TOKEN)
 
 user_emails = {}
